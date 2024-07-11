@@ -29,3 +29,4 @@ Read [`doc/deployment.md`](./doc/deployment.md) to learn how to deploy this app 
 
 To dive into the implementation of the flows that support the demo app features, please refer to
 [Pi Demo App Flows](./FLOWS.md).
+e8b25b27506afda2adfba0cec50ccad78626dc423f35c69064db2b6000743d38e7648f160ee37c5885a93b23491235af2a47e020652f2ec57c56d45843c69877
